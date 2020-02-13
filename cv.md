@@ -3,6 +3,7 @@
 info | me
 ------------ | -------------
 Name | Aliaksei Lasevich
+Location | Belarus, Minsk
 Contact | alexey.losevich@gmail.com, +375292810011
 Summary| Hardworking, Cooperative, Flexible, Motivated, Creative, Organized
 Skills | Java SE, Spring, Hibernate, MySQL, MVC, Apache Tomcat, Git, JavaScript, Html, CSS, REST
