@@ -1,4 +1,4 @@
-<img src="https://avatars3.githubusercontent.com/u/56922311?s=460&v=4" width="100"/>
+<img src="https://avatars3.githubusercontent.com/u/56922311?s=460&v=4" width="190"/>
 
 info | me
 ------------ | -------------
